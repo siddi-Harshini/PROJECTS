@@ -3,7 +3,7 @@
 This is a React-based frontend project for managing books in an **E-Book Management System**. 
 The application integrates with a Spring Boot backend to perform CRUD (Create, Read, Update, Delete) operations on books.
 
---------------------------------------------------------------------------------------------
+
 
 ## ✨ Features
 
@@ -15,7 +15,7 @@ The application integrates with a Spring Boot backend to perform CRUD (Create, R
 - **Delete Book**: Allows users to delete a book by its ID.
 - **Responsive Design**: Styled using Flexbox for a clean and modern layout.
 
-----------------------------------------------------------------------------------------------
+
 
 ## 🛠 Technologies Used
 
@@ -24,7 +24,7 @@ The application integrates with a Spring Boot backend to perform CRUD (Create, R
 - **Styling**: CSS (inline styles and Flexbox)
 - **HTTP Client**: Axios
 
------------------------------------------------------------------------------------------------
+
 
 ## 🚀 Installation and Setup
 
